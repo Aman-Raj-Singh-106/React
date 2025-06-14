@@ -1,0 +1,82 @@
+/* ONE
+* {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',;
+}
+h1 {
+  text-align: start;
+  font-weight: 600;
+}
+#heading {
+  color:  #FC9928;
+}
+.rules {
+  border: 0 solid white;
+  box-shadow: 0 0 10px #FF7600;
+  padding: 20px 10px 20px 10px;
+  width: 1000px;
+}
+hr {
+  width: 100px;
+  border: 2px solid darkorange;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+p {
+  font-weight: bold;
+  font-size: large;
+}
+li {
+  font-weight: bold;
+  color: rgb(39, 39, 39);
+} */
+
+/* TWO 
+* {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  text-align: center;
+}
+.Product {
+  border: 5px solid black;
+  padding: 10px;
+} */
+
+/* THREE */
+/* * {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+
+th {
+  background-color: #9e9c9c;
+  padding: 10px;
+  border: 1px solid #ddd;
+
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+} */
+
+
+/* FOUR */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
